@@ -1,4 +1,4 @@
-const Employee = require('../Employee')
+const Employee = require('../src/Employee')
 
 describe('Employee', () => {
     it(`should create an object with with Employee property (name, id, email)`, () => {
